@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nripesh Bhusal</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Web developer and Programming geek from India</h3>
 
 •⁠  ⁠🔭 I’m currently working on *Hackathons*
 
