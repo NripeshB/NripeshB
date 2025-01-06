@@ -1,5 +1,5 @@
 # About_Me.cpp
-vector About me(vector&MyInfo)<br> {<br> string Name = "Nripesh Bhusal" ;<br> vector MyInfo.push_back(Name);<br><br> string CurStat = "Grinding DSA in C++" ;<br> vector MyInfo.push_back(CurStat);<br> <br>string Interests = "Web Dev/ DS/ ML";<br> vector MyInfo.push_back(Interests);<br><br> //that's all :)<br><br> return MyInfo; <br>}
+vector About_me(vector&MyInfo)<br> {<br> string Name = "Nripesh Bhusal" ;<br> vector MyInfo.push_back(Name);<br><br> string CurStat = "Grinding DSA in C++" ;<br> vector MyInfo.push_back(CurStat);<br> <br>string Interests = "Web Dev/ DS/ ML";<br> vector MyInfo.push_back(Interests);<br><br> //that's all :)<br><br> return MyInfo; <br>}
 
 
 ## 🌐 Socials:
