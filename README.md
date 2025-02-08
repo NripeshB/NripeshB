@@ -17,8 +17,6 @@ vector(string) About_me(vector(string) &MyInfo)<br>{<br>string Name = "Nripesh B
 ![](https://github-profile-trophy.vercel.app/?username=NripeshB&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🖋️ Random Quote:
-"Should I code by my self, or should I have a cup of coffee." -Albert camus (if he were a programmer)
----
-[![](https://visitcount.itsvg.in/api?id=NripeshB&icon=0&color=0)](https://visitcount.itsvg.in)
+``` Albert Camus (If he were a programmer)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Should I </> myself or Should I drink a cup of coffee.```
