@@ -35,5 +35,5 @@ vector<string> About_me(vector<string> &MyInfo) {
 
 ## 🖋️ Random Quote:
 ```Albert Camus (if he were a programmer)
-Should I </> myself or Should I drink a cup of coffee.
+Should I </> myself or have a cup of coffee.
  ```
