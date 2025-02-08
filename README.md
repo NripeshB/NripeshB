@@ -1,5 +1,18 @@
 # 💫 About Me:
-vector(string) About_me(vector(string) &MyInfo)<br>{<br>string Name = "Nripesh Bhusal" ;<br>MyInfo.push_back(Name);<br><br>string CurStat = "Struggling to center divs" ;<br>MyInfo.push_back(CurStat);<br><br>string Interests = "Cyber security/ DS/ ETH";<br>MyInfo.push_back(Interests);<br><br>//that's all :)<br><br>return MyInfo;<br>}
+``` Cpp
+vector<string> About_me(vector<string> &MyInfo){
+string Name = "Nripesh Bhusal" ;
+MyInfo.push_back(Name);
+string CurStat = "Struggling to center divs" ;
+MyInfo.push_back(CurStat);
+string Interests = "Cyber security/ DS/ ETH";
+MyInfo.push_back(Interests);
+
+//that's all :]
+
+xreturn MyInfo;
+```
+
 
 
 ## 🌐 Socials
