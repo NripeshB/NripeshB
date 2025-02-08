@@ -1,4 +1,5 @@
-# 💫 About Me:
+# 💫 About_Me.cpp:
+
 ``` Cpp
 vector<string> About_me(vector<string> &MyInfo){
 string Name = "Nripesh Bhusal" ;
@@ -10,7 +11,7 @@ MyInfo.push_back(Interests);
 
 //that's all :]
 
-xreturn MyInfo;
+return MyInfo;
 ```
 
 
@@ -30,6 +31,6 @@ xreturn MyInfo;
 ![](https://github-profile-trophy.vercel.app/?username=NripeshB&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🖋️ Random Quote:
-``` Albert Camus (If he were a programmer)
-
-Should I </> myself or Should I drink a cup of coffee.```
+```Albert Camus (if he were a programmer)
+Should I </> myself or Should I drink a cup of coffee.
+ ```
