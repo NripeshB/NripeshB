@@ -1,8 +1,8 @@
 # 💫 About Me:
-vector(string) About_me(vector(string) &MyInfo)<br>{<br>string Name = "Nripesh Bhusal" ;<br>MyInfo.push_back(Name);<br><br>string CurStat = " Centering divs" ;<br>MyInfo.push_back(CurStat);<br><br>string Interests = "Cyber security/ DS/ ML";<br>MyInfo.push_back(Interests);<br><br>//that's all :)<br><br>return MyInfo;<br>}
+vector(string) About_me(vector(string) &MyInfo)<br>{<br>string Name = "Nripesh Bhusal" ;<br>MyInfo.push_back(Name);<br><br>string CurStat = "Struggling to center divs" ;<br>MyInfo.push_back(CurStat);<br><br>string Interests = "Cyber security/ DS/ ETH";<br>MyInfo.push_back(Interests);<br><br>//that's all :)<br><br>return MyInfo;<br>}
 
 
-## 🌐 Socials:
+## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/nb_codes_when_he_is_free) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/nripeshbhusal/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/NripeshB70497) 
 
 # 💻 Tech Stack:
@@ -16,9 +16,8 @@ vector(string) About_me(vector(string) &MyInfo)<br>{<br>string Name = "Nripesh B
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NripeshB&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NripeshB&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+## 🖋️ Random Quote:
+"Should I code by my self, or should I have a cup of coffee." -Albert camus (if he were a programmer)
 ---
 [![](https://visitcount.itsvg.in/api?id=NripeshB&icon=0&color=0)](https://visitcount.itsvg.in)
 
