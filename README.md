@@ -8,7 +8,7 @@ vector<string> About_me(vector<string> &MyInfo) {
     string CurStat = "Struggling to center divs";
     MyInfo.push_back(CurStat);
     
-    string Interests = "Cyber security/ DS/ ETH";
+    string Interests = "Comics and music";
     MyInfo.push_back(Interests);
 
     // that's all :]
