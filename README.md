@@ -1,21 +1,4 @@
-# 💫 About_Me.cpp:
 
-``` Cpp
-vector<string> About_me(vector<string> &MyInfo) {
-    string Name = "Nripesh Bhusal";
-    MyInfo.push_back(Name);
-    
-    string CurStat = "Struggling to center divs";
-    MyInfo.push_back(CurStat);
-    
-    string Interests = "Comics and music";
-    MyInfo.push_back(Interests);
-
-    // that's all :]
-    return MyInfo;
-}
-
-```
 
 
 
